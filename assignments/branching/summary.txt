@@ -1,1 +1,4 @@
 Danni said revert means you are undoinng the last local commit changes
+
+Comparing changes before commit
+$ git diff
