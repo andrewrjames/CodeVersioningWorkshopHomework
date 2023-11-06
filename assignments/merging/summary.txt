@@ -1,0 +1,5 @@
+Danni said something about merging a branch
+
+Git is distributed version control system, which mean:
+every commit is done on local
+every repository is complete full copy, offline
