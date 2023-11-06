@@ -1,3 +1,3 @@
 select *
 from transport_data
-where route = 'cgk'
+where route = 'cgk'a
