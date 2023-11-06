@@ -7,5 +7,7 @@ every repository is complete full copy, offline
 Add sql 
 --
 select * from transport_data
-
+where route_name = 'CGK'
 --
+
+
